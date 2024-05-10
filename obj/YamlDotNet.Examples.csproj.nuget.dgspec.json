@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\YamlDotNet.Examples.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\YamlDotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\YamlDotNet.csproj",
+        "projectName": "YamlDotNet",
+        "projectPath": "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\YamlDotNet.csproj",
+        "packagesPath": "C:\\Users\\mdnk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mdnk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.129\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\YamlDotNet.Examples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\YamlDotNet.Examples.csproj",
+        "projectName": "YamlDotNet.Examples",
+        "projectPath": "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\YamlDotNet.Examples.csproj",
+        "packagesPath": "C:\\Users\\mdnk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mdnk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\YamlDotNet.csproj": {
+                "projectPath": "C:\\Users\\mdnk\\Unity Projects\\6D_Force\\My project (2)\\YamlDotNet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.129\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

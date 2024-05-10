@@ -1,0 +1,22 @@
+# Object Properties
+position:
+ x: 5.0
+ y: 2.0
+ z: -3.5
+rotation:
+ x: 0.0
+ y: 45.0
+ z: -45.0
+scale:
+ x: 1.5
+ y: 1.5
+ z: 1.5
+materials:
+ - name: "Material1"
+   color: "red"
+   metallic: 0.5
+   smoothness: 0.8
+ - name: "Material2"
+   color: "blue"
+   metallic: 0.8
+   smoothness: 0.6
